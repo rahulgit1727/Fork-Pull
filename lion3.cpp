@@ -5,6 +5,6 @@ int main(){
     cout<<"enter a number:"<<endl;
     int n;
     cin>>n;
-    cout<<"hey! it's me the tiger"<<endl;
+    cout<<"hey! it's me the rabbit"<<endl;
     return 0;
 }
